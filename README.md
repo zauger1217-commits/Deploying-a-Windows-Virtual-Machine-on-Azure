@@ -2,7 +2,7 @@
 
 This repository provides a **standard operating procedure (SOP)** for deploying, accessing, and cleaning up a **Windows Server Virtual Machine** using the **Azure Portal**.  
 It is intended for **labs, learning environments, and basic testing scenarios**.
-
+Watch me build it here https://www.loom.com/share/e8890da3f9414ac8bfaeff2a70f78535
 ---
 
 ## 📌 Objective
