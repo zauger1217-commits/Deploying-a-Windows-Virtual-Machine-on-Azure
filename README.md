@@ -4,7 +4,7 @@ This repository provides a **standard operating procedure (SOP)** for deploying,
 It is intended for **labs, learning environments, and basic testing scenarios**.
 
 WATCH ME BUILD IT HERE:
-https://www.loom.com/share/e8890da3f9414ac8bfaeff2a70f78535
+https://www.loom.com/share/9872b8dc137840ffaaf033d34c5629b4
 ---
 
 ## 📌 Objective
